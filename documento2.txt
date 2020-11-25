@@ -1,1 +1,1 @@
-questo documento è uno shift register che funziona
+questo documento è uno shift register che funziona meglio
