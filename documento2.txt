@@ -1,0 +1,1 @@
+questo documento è uno shift register che funziona
